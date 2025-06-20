@@ -1,5 +1,5 @@
 # 243_71ITAI40803_0101_2374802013578_NguyenPhuocThanh
-Thực hành 2
+Thực hành Lab 2
 1.1: Biến đổi cường độ ảnh tự tối sang sáng và ngược lại. 
 
 1.2: Đoạn mã thực hiện biến đổi logarit ngược (inverse log) với hệ số gamma = 5 lên ảnh xám. Biến đổi này làm tăng độ tương phản ở vùng tối và giảm ở vùng sáng. Các chi tiết ở vùng tối sẽ được làm sáng lên, giúp dễ quan sát hơn.
