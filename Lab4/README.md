@@ -1,4 +1,4 @@
-Thực hành Lab4
+Thực hành Lab 4
 2.1 Phân vùng theo histogram
 2.1.1 Phương pháp Otsu
 Thực hiện phân ngưỡng ảnh mức xám (fruit.jpg) sang ảnh nhị phân bằng phương pháp Otsu.
@@ -28,3 +28,6 @@ Phép erosion giúp loại bỏ các chi tiết nhỏ, làm co đối tượng l
 
 2.3.4 Sử dụng binary_closing
 Phép closing giúp lấp đầy lỗ nhỏ bên trong đối tượng và làm mịn biên.
+
+Bài tập Lab 4
+Áp dụng lại các phương pháp xử lý ảnh đã học để làm được 4 bài tập lab 4.
